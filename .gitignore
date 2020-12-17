@@ -1,0 +1,19 @@
+# Dev
+/.idea
+/.vscode
+/dist
+/tmp
+/node_modules
+
+# Mac OS
+.DS_Store
+
+*.logs
+*.log
+*.iml
+
+*.*~
+
+/.shadow-cljs
+
+/public
